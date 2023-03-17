@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodeMathTipCalc</string>
+    <string name="tip_prompt">Tip %</string>
+</resources>
